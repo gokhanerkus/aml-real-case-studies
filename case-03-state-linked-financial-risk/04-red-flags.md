@@ -1,0 +1,4 @@
+- Political exposure in financial decision-making  
+- Repeated allocation of resources to specific entities  
+- Lack of transparency  
+- Potential conflict of interest  
