@@ -1,8 +1,8 @@
 ## Pre-Exposure Phase
 
-**2013 — Initial Detection (Original OSINT Finding)**
+**2013 — Initial Detection (Original Investigative Finding)**
 
-- This case is based on investigative findings identifying early links between aviation assets and an Iran-linked sanctioned network  
+- Early investigative work identified links between aviation assets and an Iran-linked sanctioned network  
 - Cross-border connections involving Turkish and Iranian actors were documented  
 - Indicators of potential sanctions evasion through commercial structures were identified  
 
@@ -36,3 +36,11 @@ This timeline demonstrates:
 - Early detection capability using OSINT  
 - Ability to identify risk signals before enforcement actions  
 - Understanding of how financial crime networks evolve over time  
+
+---
+
+## Attribution Note
+
+The initial identification of the aviation link and network structure in this case is based on **original investigative work conducted prior to widespread public exposure**.
+
+Subsequent international reporting later confirmed key elements of the structure identified at this early stage.
