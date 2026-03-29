@@ -28,6 +28,37 @@
 - Tajikistan  
 
 ---
+# Network Diagram — Financial Flow Structure
+
+```mermaid
+flowchart LR
+
+    IRAN[Iran-linked funds]
+    ZANJANI[Zanjani Network]
+    ZARRAB[Zarrab Network]
+
+    BANK[Turkish Bank]
+    CALIK[Corporate Group]
+
+    UAE[UAE Entities]
+    MALAYSIA[Malaysia Entities]
+    TAJIK[Tajikistan Entities]
+
+    GLOBAL[International Financial System]
+
+    IRAN --> ZANJANI
+    ZANJANI --> ZARRAB
+    ZARRAB --> BANK
+
+    BANK --> CALIK
+
+    BANK --> UAE
+    BANK --> MALAYSIA
+    BANK --> TAJIK
+
+    UAE --> GLOBAL
+    MALAYSIA --> GLOBAL
+    TAJIK --> GLOBAL
 
 ## Network Characteristics
 
