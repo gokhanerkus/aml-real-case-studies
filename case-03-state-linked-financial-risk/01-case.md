@@ -1,16 +1,26 @@
-# Case 03 — State-Linked Financial Risk
+# Case 03 — State-Linked Financial Structure
 
 ## Overview
 
-This case examines reported relationships between public financial institutions, senior banking figures, and specific corporate groups.
+This case is based on publicly available reporting regarding relationships between public banking institutions, senior financial figures, and corporate groups.
 
-The case is based on publicly available reporting highlighting potential concentration of financial resources and governance concerns.
+The reporting highlights patterns of financial allocation, governance concerns, and institutional influence.
 
 ---
 
 ## Key Elements
 
-- Senior banking figures with influence over public financial institutions  
-- Allocation of financial resources to specific corporate groups  
-- Repeated patterns of financial support  
-- Structural links between political and financial actors  
+- Senior figures associated with public banking institutions  
+- Reported allocation of financial resources to specific corporate groups  
+- Repeated financial relationships across different periods  
+- Structural proximity between financial decision-makers and beneficiaries  
+
+---
+
+## Objective
+
+To assess whether the observed structure presents risk indicators related to:
+
+- Political exposure (PEP risk)  
+- Concentration of financial resources  
+- Governance and oversight weaknesses  
