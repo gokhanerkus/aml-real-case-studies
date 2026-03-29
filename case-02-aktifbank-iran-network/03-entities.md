@@ -57,3 +57,20 @@ flowchart LR
     UAE --> GLOBAL
     MALAYSIA --> GLOBAL
     TAJIK --> GLOBAL
+
+
+    ## Interpretation
+
+This diagram illustrates the flow of funds from Iran-linked sources through intermediary networks into the Turkish banking system, followed by distribution across multiple jurisdictions.
+
+Key observations:
+
+- Central role of the financial institution in enabling fund movement  
+- Use of intermediary actors to obscure origin  
+- Distribution of funds across multiple jurisdictions (UAE, Malaysia, Tajikistan)  
+- Integration into the international financial system  
+
+➡️ This structure is consistent with **layering and sanctions evasion typologies**
+
+
+➡️ The structure reflects a multi-jurisdictional layering strategy designed to obscure fund origin and reduce detection risk.
