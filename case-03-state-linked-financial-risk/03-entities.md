@@ -1,0 +1,3 @@
+- Senior banking figure (public role)
+- State-linked financial institutions
+- Corporate groups receiving financial exposure
