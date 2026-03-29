@@ -1,14 +1,13 @@
-# Timeline — Early Detection vs Public Exposure
-
 ## Pre-Exposure Phase
 
-**2013 — Initial Detection (OSINT)**
-- Early signals identified linking aviation assets to an Iran-linked entity
-- Cross-border connections involving Turkish and Iranian actors observed
-- Indicators of potential sanctions evasion through commercial structures
+**2013 — Initial Detection (Original OSINT Finding)**
 
-➡️ Insight:
-Early-stage risk signals identified before global exposure
+- This case is based on investigative findings identifying early links between aviation assets and an Iran-linked sanctioned network  
+- Cross-border connections involving Turkish and Iranian actors were documented  
+- Indicators of potential sanctions evasion through commercial structures were identified  
+
+➡️ **Analytical Significance:**
+These findings represent **early-stage detection of a sanctions evasion structure prior to major corruption investigations and international reporting**
 
 ---
 
