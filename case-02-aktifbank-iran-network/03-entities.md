@@ -28,8 +28,6 @@
 - Tajikistan  
 
 ---
-# Network Diagram — Financial Flow Structure
-
 ```mermaid
 flowchart LR
 
@@ -59,9 +57,3 @@ flowchart LR
     UAE --> GLOBAL
     MALAYSIA --> GLOBAL
     TAJIK --> GLOBAL
-
-## Network Characteristics
-
-- Centralized financial control  
-- Cross-border entity layering  
-- Use of multiple jurisdictions  
