@@ -51,10 +51,6 @@ Such patterns are commonly associated with:
 
 ## Source Note
 
-This case is based on contemporaneous newspaper reporting authored by the analyst.
+The underlying data in this case originates from a newspaper article written by the analyst in 2014.
 
-The original article documented trade patterns observed during the Syrian conflict, 
-including a significant increase in exports following the shift in border control.
-
-This analysis re-examines the same reporting through an AML/CFT lens, focusing on 
-risk indicators, inconsistencies, and potential financial crime exposure.
+The same individual now re-examines this reporting from an AML/CFT perspective, identifying risk indicators, inconsistencies, and potential financial crime exposure that were not explicitly framed at the time.
