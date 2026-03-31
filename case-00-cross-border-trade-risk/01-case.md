@@ -27,8 +27,7 @@ From an AML/CFT perspective, this creates a high-risk environment where legitima
 - **Event trigger:** Territorial control shift to ISIS  
 
 The reported data suggests:
-- Monthly trade volume ~100 million USD  
-- Daily movement estimated at 40–50 million USD  
+- Monthly trade volume increased from ~40–50 million USD to over ~100 million USD following the shift in border control 
 
 ---
 
