@@ -115,6 +115,7 @@ In such environments:
 This framework is consistent with the observed pattern in this case, where trade activity increased despite reduced state control and elevated conflict exposure.
 
 <img src="assets/counterterrorism-book.jpg" width="140"/>
-*James J. F. Forest (ed.), Essentials of Counterterrorism — illustrating how shadow economies and commodity trade can support terrorist financing in conflict environments.*
+*James J. F. Forest (ed.), Essentials of Counterterrorism — illustrating how shadow economies and commodity trade can support terrorist financing in conflict environments.
+
 
 The data in this case was later cited in BBC Worldwide Service coverage (2014), which relied on contemporaneous reporting by the analyst as the source of the ~79% increase in exports.
