@@ -1,6 +1,7 @@
 # Case 00 — Cross-Border Trade Risk (Turkey–Syria, 2013–2014)
 
 <img src="assets/isis-trade-case.jpeg" width="250"/>
+> This case is based on real open-source reporting and reflects a non-hypothetical trade pattern observed during the Syrian conflict.
 *Figure: Reported trade activity increase following border control shift (2013)*
 
 ## Case Summary
