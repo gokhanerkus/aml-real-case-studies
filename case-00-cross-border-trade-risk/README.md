@@ -1,75 +1,69 @@
-# Case 00 — Final Decision
+# AML Real Case Studies
 
-## Objective
+This repository contains open-source, analyst-style case studies focused on AML/CFT, sanctions risk, trade-based money laundering, and financial crime typologies.
 
-This section provides the final analyst conclusion based on the open-source evidence, risk analysis, and network assessment.
-
----
-
-## Final Assessment
-
-The reported trade pattern should be treated as a **high-risk cross-border trade relationship** with meaningful AML/CFT exposure.
-
-The primary concern is not simply that trade occurred during conflict, but that trade **increased** after the border environment deteriorated and territorial control shifted to ISIS-influenced territory. That combination materially weakens confidence in the legitimacy, traceability, and independence of the trade flow.
+Each case is structured to resemble a practical investigation file rather than a generic academic note. The goal is to show how a financial crime analyst breaks down real-world events into:
+- facts
+- network structure
+- risk indicators
+- analytical interpretation
+- final decision-making
 
 ---
 
-## Decision
+## Current Case Index
 
-| Decision Option | Assessment | Reason |
+| Case | Title | Topic |
 |---|---|---|
-| Approve as standard risk | Not appropriate | The environment is too high risk for routine treatment |
-| Approve with monitoring | Insufficient | Monitoring alone would not address the structural exposure |
-| Escalate for EDD review | Appropriate | The case requires deeper counterparty and trade-flow validation |
-| Reject / restrict relationship | Appropriate if any direct or indirect designated-party linkage is identified | Exposure to sanctions or terrorist-financing risk would be unacceptable |
+| Case 00 | Cross-Border Trade Risk | Trade flows, conflict exposure, TBML, sanctions, terrorist-financing risk |
 
 ---
 
-## Recommended Outcome
+## Folder Structure
 
-**Escalate for enhanced due diligence and senior review.**
-
-### Conditions for proceeding
-The relationship or transaction should only continue if the following can be verified:
-- clear and legitimate counterparties
-- credible beneficial ownership information
-- consistent shipping and customs documentation
-- commercially plausible pricing
-- no sanctions or designated-actor linkage
-- no evidence of informal settlement or hidden intermediaries
-
-If any of these cannot be established, the appropriate outcome would be to **reject, exit, or freeze further activity depending on the institution’s policy and legal obligations**.
-
----
-
-## Rationale for Escalation
-
-| Issue | Why It Matters |
+| File | Purpose |
 |---|---|
-| Conflict-zone trade | Reduces reliability of normal due diligence controls |
-| Abnormal export growth | Suggests the trade relationship may be structurally atypical |
-| ISIS-influenced territory | Raises terrorist-financing and sanctions concerns |
-| Potential intermediary use | Can obscure the true buyer, seller, or beneficiary |
-| Weak documentation environment | Limits the ability to validate economic purpose and route integrity |
+| `01-case.md` | Executive summary and factual background |
+| `02-analysis.md` | Chronology, interpretation, and analytical reasoning |
+| `03-network.md` | Actor map, jurisdictions, and relationship risk |
+| `04-risk.md` | Risk matrix and structured assessment |
+| `05-decision.md` | Final recommendation and escalation logic |
 
 ---
 
-## What an Investigator Would Request
+## Methodology
 
-| Document / Evidence | Purpose |
-|---|---|
-| Commercial invoices | To test for valuation anomalies |
-| Customs declarations | To confirm declared goods and route |
-| Bills of lading / transport records | To verify physical movement |
-| Beneficial ownership evidence | To identify hidden control persons |
-| Counterparty due diligence files | To assess legitimacy and sanctions exposure |
-| Payment records | To detect layering or informal settlement |
-| OSINT / adverse media review | To identify any links to designated actors |
+Each case is built using a consistent analyst workflow:
+1. Identify the event and source context
+2. Separate facts from inference
+3. Map the network and jurisdictions
+4. Identify red flags and typologies
+5. Assess risk by dimension
+6. State a clear decision
 
 ---
 
-## Closing Statement
+## Intended Use
 
-This case is a strong example of how geopolitical instability can translate into financial crime risk. The analyst’s task is not to assume illegality, but to recognize that the trade environment is so compromised that ordinary verification is not enough.
+This repository is designed for:
+- AML/KYC portfolio presentation
+- financial crime analyst job applications
+- case-based interview discussion
+- self-study and research portfolio building
 
-The correct professional response is conservative: **escalate, validate, and only proceed if the documentation and counterparties withstand enhanced scrutiny**.
+---
+
+## Case Study Standard
+
+Each case aims to show:
+- structured thinking
+- source-based analysis
+- practical risk judgment
+- clear written communication
+- escalation discipline
+
+---
+
+## Notes
+
+These case studies are for research and portfolio purposes. They are not legal advice and do not claim to establish criminal conduct where only risk indicators are present.
