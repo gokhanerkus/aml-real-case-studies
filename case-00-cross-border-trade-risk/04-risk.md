@@ -122,3 +122,18 @@ This would not be handled as a routine trade relationship. It would require:
 ## Analyst Note
 
 The key lesson from this case is that trade growth is not automatically a positive signal. In high-risk environments, expanding trade can be a warning sign rather than evidence of normal commercial activity.
+
+---
+
+## Risk Score (Simplified)
+
+| Factor | Score |
+|---|---|
+| Jurisdiction risk | 5/5 |
+| Sanctions exposure | 5/5 |
+| TBML likelihood | 5/5 |
+| Counterparty opacity | 4/5 |
+| Documentation reliability | 4/5 |
+
+**Overall Score: 4.6 / 5 (High Risk)**
+
