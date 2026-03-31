@@ -67,3 +67,8 @@ Each case aims to show:
 ## Notes
 
 These case studies are for research and portfolio purposes. They are not legal advice and do not claim to establish criminal conduct where only risk indicators are present.
+
+## References
+
+- Open-source reporting (2014)
+- Counterterrorism literature on shadow economies and terrorist financing
