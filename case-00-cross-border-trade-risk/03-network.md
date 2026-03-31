@@ -22,6 +22,17 @@ The purpose is not to identify every participant with certainty, but to show how
 
 ---
 
+## Jurisdictional Exposure
+
+| Jurisdiction / Area | Risk Characteristic | Why It Matters |
+|---|---|---|
+| Turkey | Export origin | Requires scrutiny of exporter legitimacy and shipping rationale |
+| Syria | Conflict-affected destination | High-risk destination due to instability and weak control |
+| Border corridor | Control degradation | Reduces traceability of goods and counterparties |
+| ISIS-influenced area | Terrorist-control exposure | Raises concern over direct or indirect support to a designated group |
+
+---
+
 ## Simplified Relationship Map
 
 Turkey-based exporter  
@@ -93,17 +104,6 @@ The combination of:
 - reduced transparency  
 
 creates a setting where trade can function as a hybrid system combining legitimate commerce and illicit value transfer.
----
-
-## Jurisdictional Exposure
-
-| Jurisdiction / Area | Risk Characteristic | Why It Matters |
-|---|---|---|
-| Turkey | Export origin | Requires scrutiny of exporter legitimacy and shipping rationale |
-| Syria | Conflict-affected destination | High-risk destination due to instability and weak control |
-| Border corridor | Control degradation | Reduces traceability of goods and counterparties |
-| ISIS-influenced area | Terrorist-control exposure | Raises concern over direct or indirect support to a designated group |
-
 ---
 
 ## Key Relationship Risks
