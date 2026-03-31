@@ -8,21 +8,6 @@ The pattern is analytically significant because it diverges from expected econom
 
 ---
 
-## Why This Case Matters
-
-Trade expansion in a conflict-affected environment with reduced state control creates exposure to:
-- trade-based money laundering  
-- sanctions risk  
-- terrorist financing  
-
----
-
-## Source Note
-
-Based on a newspaper article written by the analyst in 2014 and reinterpreted from an AML/CFT perspective.
-
----
-
 ## Case Structure
 
 - `01-case.md` → full context  
