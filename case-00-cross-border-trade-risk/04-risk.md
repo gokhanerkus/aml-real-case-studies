@@ -38,7 +38,7 @@ This case sits in the **High Likelihood / High Impact** zone because:
 
 ## Key Risk Drivers
 
-### One. Conflict-zone trade
+### 1. Conflict-zone trade
 Trade continued in a zone affected by active conflict and reduced state control.
 
 This matters because conflict zones typically weaken:
@@ -47,7 +47,7 @@ This matters because conflict zones typically weaken:
 - counterparty due diligence
 - reliable payment tracing
 
-### Two. Abnormal trade growth
+### 2. Abnormal trade growth
 Reported exports increased rather than declining after territorial control shifted.
 
 This is a red flag because it suggests the trade relationship may have adapted to the conflict through:
@@ -56,7 +56,7 @@ This is a red flag because it suggests the trade relationship may have adapted t
 - route changes
 - undisclosed counterparties
 
-### Three. Terrorist-control exposure
+### 3. Terrorist-control exposure
 The presence of ISIS-influenced territory introduces a direct terrorist-financing concern.
 
 Even if the trade was partly legitimate, the environment creates exposure to:
@@ -65,7 +65,7 @@ Even if the trade was partly legitimate, the environment creates exposure to:
 - diversion of goods
 - facilitation by linked actors
 
-### Four. Reduced transparency
+### 4. Reduced transparency
 Conflict conditions make it harder to verify:
 - who the end user is
 - whether the goods match the declaration
