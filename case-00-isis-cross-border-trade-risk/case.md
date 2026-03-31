@@ -64,7 +64,7 @@ From a compliance perspective, this scenario would trigger:
 
 ### Investigative Reporting (2014)
 
-<img src="./isis-trade-case.jpg" width="500">
+<img src="./isis-trade-case.jpeg" width="500">
 
 This report documents a significant increase in exports following loss of border control, highlighting potential exploitation of trade routes by non-state actors.
 
