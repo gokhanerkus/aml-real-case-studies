@@ -5,7 +5,6 @@
 This section translates the reported trade pattern into a financial crime analysis. The key question is not whether trade occurred, but whether the pattern, timing, and operating environment are consistent with elevated AML/CFT risk.
 
 ---
-
 ## Chronology of Relevant Events
 
 | Date / Period | Event | Analytical Relevance |
@@ -14,6 +13,8 @@ This section translates the reported trade pattern into a financial crime analys
 | September 2013 | Control of the Kilis–Öncüpınar border crossing on the Syrian side reportedly shifts to ISIS | Reduces confidence in border integrity and counterpart verification |
 | Post-September 2013 | Turkey’s exports to Syria reportedly rise by approximately 79% | Trade growth becomes materially inconsistent with expected conflict behaviour |
 | 2014 | Open-source reporting continues to describe significant trade activity | Suggests persistence of the abnormal pattern |
+
+**Note:** The reported ~79% increase is also referenced in counterterrorism literature examining ISIS-linked trade dynamics, reinforcing the credibility of the observed pattern.
 
 ---
 
@@ -101,3 +102,14 @@ A prudent analyst would not rely on headline trade volume alone. The correct nex
 - whether valuations were credible
 - whether shipping routes were documented
 - whether any parties were linked to sanctioned or designated actors
+
+## Supporting Insight from Counterterrorism Literature
+
+Academic research on terrorist financing highlights that armed groups often rely on existing shadow economies rather than building isolated systems.
+
+In such environments:
+- intermediaries play a critical role in connecting buyers and sellers without revealing identities
+- commodity trade can be used as a vehicle for value transfer
+- conflict zones increase the overlap between legal and illegal economic activity
+
+This framework is consistent with the observed trade pattern in this case, where increased trade activity coincides with reduced state control and elevated conflict exposure.
