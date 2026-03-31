@@ -108,8 +108,13 @@ A prudent analyst would not rely on headline trade volume alone. The correct nex
 Research on terrorist financing shows that armed groups often rely on existing shadow economies rather than operating in isolation.
 
 In such environments:
-- intermediaries play a critical role in connecting buyers and sellers
-- commodity trade can be used as a vehicle for value transfer
-- legal and illegal economic activity may overlap
+- intermediaries play a critical role in connecting buyers and sellers  
+- commodity trade can be used as a vehicle for value transfer  
+- legal and illegal economic activity may overlap  
 
 This framework is consistent with the observed pattern in this case, where trade activity increased despite reduced state control and elevated conflict exposure.
+
+<img src="assets/counterterrorism-book.jpg" width="140"/>
+*James J. F. Forest (ed.), Essentials of Counterterrorism — illustrating how shadow economies and commodity trade can support terrorist financing in conflict environments.*
+
+The data in this case was later cited in BBC Worldwide Service coverage (2014), which relied on contemporaneous reporting by the analyst as the source of the ~79% increase in exports.
