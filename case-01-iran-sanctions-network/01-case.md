@@ -1,6 +1,52 @@
 # Case 01 — Iran Sanctions Evasion Network
 
 ## Overview
+This case analyzes a cross-border network involving Iranian, Turkish, and UAE-linked entities from an AML/CFT and sanctions risk perspective.
+
+---
+
+## Key Focus Areas
+
+- Sanctions evasion  
+- Network-based money laundering  
+- Trade-based money laundering (TBML)  
+- Cross-border financial flows  
+
+---
+
+## Why This Case Matters
+
+This case demonstrates how early-stage OSINT analysis can reveal structural risk signals in complex cross-border networks.
+
+It highlights:
+- identification of hidden relationships  
+- analysis of layered ownership structures  
+- detection of sanctions-related risk exposure  
+
+---
+
+## Key Insight
+
+The structural patterns identified in this case are consistent with typologies commonly associated with sanctions evasion and cross-border financial crime.
+
+---
+
+## Source Note
+
+This case is based on contemporaneous reporting authored by the analyst in 2013.
+
+<img src="assets/iran-triangle-case.jpg" width="250"/>
+*Original reporting by the analyst (2013)*
+
+The same material is re-examined here through an AML/CFT lens, focusing on risk indicators, network structure, and potential sanctions exposure.
+
+---
+
+## Files
+
+- `02-analysis.md` → full AML analysis  
+- `03-network.md` → network structure  
+- `04-timeline.md` → development and exposure timeline  
 
 This case examines a cross-border network potentially used for sanctions evasion and money laundering involving Iranian, Turkish, and UAE-linked entities.
 
