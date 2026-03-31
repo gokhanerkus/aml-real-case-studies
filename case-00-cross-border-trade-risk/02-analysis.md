@@ -103,6 +103,8 @@ A prudent analyst would not rely on headline trade volume alone. The correct nex
 - whether shipping routes were documented
 - whether any parties were linked to sanctioned or designated actors
 
+---
+
 ## Supporting Insight from Counterterrorism Literature
 
 Research on terrorist financing shows that armed groups often rely on existing shadow economies rather than operating in isolation.
@@ -117,4 +119,5 @@ This framework is consistent with the observed pattern in this case, where trade
 <img src="assets/counterterrorism-book.jpg" width="140"/>
 *James J. F. Forest (ed.), Essentials of Counterterrorism — illustrating how shadow economies and commodity trade can support terrorist financing in conflict environments.*
 
+---
 The data in this case was later cited in BBC Worldwide Service coverage (2014), which relied on contemporaneous reporting by the analyst as the source of the ~79% increase in exports.
