@@ -1,8 +1,7 @@
 # Case 00 — Cross-Border Trade Risk (Turkey–Syria, 2013–2014)
 
 <img src="assets/isis-trade-case.jpeg" width="250"/>
-> This case is based on real open-source reporting and reflects a non-hypothetical trade pattern observed during the Syrian conflict.
-*Figure: Reported trade activity increase following border control shift (2013)*
+*Based on a newspaper article written by the analyst in 2014 and reinterpreted from an AML/CFT perspective.
 
 ## Case Summary
 
@@ -51,6 +50,4 @@ Such patterns are commonly associated with:
 
 ## Source Note
 
-The underlying data in this case originates from a newspaper article written by the analyst in 2014.
-
-The same individual now re-examines this reporting from an AML/CFT perspective, identifying risk indicators, inconsistencies, and potential financial crime exposure that were not explicitly framed at the time.
+The underlying data in this case originates from a newspaper article written by the analyst in 2014. The same individual now re-examines this reporting from an AML/CFT perspective, identifying risk indicators, inconsistencies, and potential financial crime exposure that were not explicitly framed at the time.
