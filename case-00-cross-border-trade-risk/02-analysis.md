@@ -14,7 +14,7 @@ This section translates the reported trade pattern into a financial crime analys
 | Post-September 2013 | Turkey’s exports to Syria reportedly rise by approximately 79% | Trade growth becomes materially inconsistent with expected conflict behaviour |
 | 2014 | Open-source reporting continues to describe significant trade activity | Suggests persistence of the abnormal pattern |
 
-**Note:** The reported ~79% increase is also referenced in counterterrorism literature examining ISIS-linked trade dynamics, reinforcing the credibility of the observed pattern.
+**Analytical note:** The reported ~79% increase is also supported by counterterrorism literature on ISIS-linked trade activity, indicating that the pattern is not isolated to a single source.
 
 ---
 
