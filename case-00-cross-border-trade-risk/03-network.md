@@ -36,6 +36,65 @@ Local importer / end user
 
 ---
 
+## Transaction Flow (Illustrative)
+
+The following flow illustrates how value may move in a high-risk cross-border trade environment under conflict conditions:
+
+### Physical flow of goods
+Turkey-based exporter  
+→ goods shipped via transport operator  
+→ Kilis–Öncüpınar border crossing  
+→ conflict-affected territory  
+→ local buyer / distributor  
+
+---
+
+### Financial flow (simplified)
+
+Local buyer / intermediary  
+→ payment via informal channels or third-party accounts  
+→ broker / intermediary layer  
+→ partial or structured transfer to exporter  
+→ possible off-ledger settlement components  
+
+---
+
+### Risk points along the flow
+
+| Stage | Risk |
+|---|---|
+| Export initiation | Misrepresentation of goods or value (over/under invoicing) |
+| Transport | Route deviation or undocumented diversion |
+| Border crossing | Weak or compromised control environment |
+| Counterparty | Unverified or concealed beneficial ownership |
+| Payment | Use of intermediaries, layering, or informal settlement |
+| End use | Goods diverted, resold, or taxed by armed groups |
+
+---
+
+## Analytical Interpretation
+
+This type of flow is consistent with known financial crime typologies where trade is used not only for commercial purposes but also as a mechanism to transfer value across borders.
+
+In such environments:
+- the physical movement of goods and the financial movement of funds may not fully align  
+- intermediaries may play a key role in obscuring relationships  
+- part of the transaction may occur outside the formal financial system  
+
+---
+
+## Key Insight
+
+Even when a trade transaction appears legitimate on paper, the surrounding structure may introduce hidden exposure.
+
+The combination of:
+- conflict conditions  
+- intermediary involvement  
+- reduced transparency  
+
+creates a setting where trade can function as a hybrid system combining legitimate commerce and illicit value transfer.
+---
+
 ## Jurisdictional Exposure
 
 | Jurisdiction / Area | Risk Characteristic | Why It Matters |
