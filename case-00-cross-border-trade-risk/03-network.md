@@ -49,6 +49,7 @@ Local importer / end user
 
 ## Transaction Flow (Illustrative)
 
+This flow is illustrative and reflects a risk-based interpretation of how trade transactions may operate in a conflict-affected environment.
 The following flow illustrates how value may move in a high-risk cross-border trade environment under conflict conditions:
 
 ### Physical flow of goods
