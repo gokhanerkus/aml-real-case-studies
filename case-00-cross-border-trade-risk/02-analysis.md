@@ -105,11 +105,11 @@ A prudent analyst would not rely on headline trade volume alone. The correct nex
 
 ## Supporting Insight from Counterterrorism Literature
 
-Academic research on terrorist financing highlights that armed groups often rely on existing shadow economies rather than building isolated systems.
+Research on terrorist financing shows that armed groups often rely on existing shadow economies rather than operating in isolation.
 
 In such environments:
-- intermediaries play a critical role in connecting buyers and sellers without revealing identities
+- intermediaries play a critical role in connecting buyers and sellers
 - commodity trade can be used as a vehicle for value transfer
-- conflict zones increase the overlap between legal and illegal economic activity
+- legal and illegal economic activity may overlap
 
-This framework is consistent with the observed trade pattern in this case, where increased trade activity coincides with reduced state control and elevated conflict exposure.
+This framework is consistent with the observed pattern in this case, where trade activity increased despite reduced state control and elevated conflict exposure.
