@@ -2,45 +2,31 @@
 
 ## Overview
 
-This case examines a cross-border trade pattern observed during the Syrian conflict, focusing on its implications from an AML/CFT perspective.
+This case examines a cross-border trade pattern observed during the Syrian conflict, where trade flows increased following a shift in border control to ISIS-influenced territory.
 
-Following a shift in territorial control at the Kilis–Öncüpınar border crossing in 2013, trade flows between Turkey and Syria reportedly increased despite escalating conflict conditions.
-
-This pattern is analytically relevant because it diverges from expected economic behaviour and may indicate elevated financial crime risk.
-
----
-
-## Context
-
-- **Countries involved:** Turkey → Syria  
-- **Key location:** Kilis – Öncüpınar border crossing  
-- **Timeframe:** 2013–2014  
-- **Event trigger:** Territorial control shift to ISIS  
-
-Reported trade data indicates that monthly export volumes increased from approximately 40–50 million USD to over 100 million USD following the shift in control.
+The pattern is analytically significant because it diverges from expected economic behaviour and may indicate elevated financial crime risk.
 
 ---
 
 ## Why This Case Matters
 
-Under normal conditions, conflict escalation and loss of border control would be expected to reduce trade activity.
-
-In this case:
-- trade continued  
-- trade increased  
-
-This divergence between expected and observed behaviour is a key signal in AML/CFT analysis.
-
-Such environments are commonly associated with:
-- Trade-Based Money Laundering (TBML)  
-- sanctions evasion  
-- use of intermediaries or informal trade channels  
-- reduced counterparty transparency  
+Trade expansion in a conflict-affected environment with reduced state control creates exposure to:
+- trade-based money laundering  
+- sanctions risk  
+- terrorist financing  
 
 ---
 
 ## Source Note
 
-The underlying data in this case originates from a newspaper article written by the analyst in 2014.
+Based on a newspaper article written by the analyst in 2014 and reinterpreted from an AML/CFT perspective.
 
-The same individual now re-examines the reporting from an AML/CFT perspective, identifying risk indicators and potential financial crime exposure that were not explicitly framed at the time.
+---
+
+## Case Structure
+
+- `01-case.md` → full context  
+- `02-analysis.md` → analytical reasoning  
+- `03-network.md` → network mapping  
+- `04-risk.md` → risk assessment  
+- `05-decision.md` → final decision  
