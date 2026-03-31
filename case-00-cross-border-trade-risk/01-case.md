@@ -1,7 +1,7 @@
 # Case 00 — Cross-Border Trade Risk (Turkey–Syria, 2013–2014)
 
 <img src="assets/isis-trade-case.jpeg" width="250"/>
-
+*Figure: Reported trade activity increase following border control shift (2013)*
 ## Case Summary
 
 This case examines a documented increase in Turkey’s exports to Syria following a significant shift in territorial control along the border during the Syrian conflict.
