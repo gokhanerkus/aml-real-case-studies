@@ -104,12 +104,11 @@ A prudent analyst would not rely on headline trade volume alone. The correct nex
 - whether any parties were linked to sanctioned or designated actors
 
 ---
-
 ## Source Attribution & Publication Record
 
-This analysis is derived from contemporaneous investigative work conducted in 2013–2014.
+This analysis is based on original investigative reporting and analytical work conducted by the author in 2013–2014.
 
-Key elements of the findings — including the reported ~79% increase in exports — were:
+Key elements of these findings — including the reported ~79% increase in exports — were subsequently:
 
 - cited in academic counterterrorism literature  
 - referenced in international media coverage, including BBC World Service (2014)
@@ -118,13 +117,12 @@ Key elements of the findings — including the reported ~79% increase in exports
 
 - Essentials of Counterterrorism, edited by James J. F. Forest  
 - Publication year: 2015  
-- Context: discussion of shadow economies, conflict-zone trade, and terrorist financing structures
+- Context: discussion of shadow economies, conflict-zone trade, and terrorist financing structures  
 <img src="assets/counterterrorism-book.jpg" width="140"/>
-
 
 An excerpt from the academic publication is provided in the assets folder as supporting evidence.
 
 ### Media Reference
 
 - BBC World Service (2014)  
-  Referenced reporting based on the same analytical findings, including the ~79% export increase.
+  Referenced reporting based on the author’s original analysis, including the ~79% export increase.
