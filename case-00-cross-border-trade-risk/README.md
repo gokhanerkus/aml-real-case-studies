@@ -1,77 +1,46 @@
-# Cross Border Trade Risk
+# Case 00 — Cross-Border Trade Risk (Turkey–Syria, 2013–2014)
+
+## Overview
 
 This case examines a cross-border trade pattern observed during the Syrian conflict, focusing on its implications from an AML/CFT perspective.
 
----
+Following a shift in territorial control at the Kilis–Öncüpınar border crossing in 2013, trade flows between Turkey and Syria reportedly increased despite escalating conflict conditions.
 
-## Current Case Index
-
-| Case | Title | Topic |
-|---|---|---|
-| Case 00 | Cross-Border Trade Risk | Trade flows, conflict exposure, TBML, sanctions, terrorist-financing risk |
+This pattern is analytically relevant because it diverges from expected economic behaviour and may indicate elevated financial crime risk.
 
 ---
 
-## Folder Structure
+## Context
 
-| File | Purpose |
-|---|---|
-| `01-case.md` | Executive summary and factual background |
-| `02-analysis.md` | Chronology, interpretation, and analytical reasoning |
-| `03-network.md` | Actor map, jurisdictions, and relationship risk |
-| `04-risk.md` | Risk matrix and structured assessment |
-| `05-decision.md` | Final recommendation and escalation logic |
+- **Countries involved:** Turkey → Syria  
+- **Key location:** Kilis – Öncüpınar border crossing  
+- **Timeframe:** 2013–2014  
+- **Event trigger:** Territorial control shift to ISIS  
 
----
-
-## Methodology
-
-Each case is built using a consistent analyst workflow:
-1. Identify the event and source context
-2. Separate facts from inference
-3. Map the network and jurisdictions
-4. Identify red flags and typologies
-5. Assess risk by dimension
-6. State a clear decision
+Reported trade data indicates that monthly export volumes increased from approximately 40–50 million USD to over 100 million USD following the shift in control.
 
 ---
 
-## Intended Use
+## Why This Case Matters
 
-This repository is designed for:
-- AML/KYC portfolio presentation
-- financial crime analyst job applications
-- case-based interview discussion
-- self-study and research portfolio building
+Under normal conditions, conflict escalation and loss of border control would be expected to reduce trade activity.
 
----
+In this case:
+- trade continued  
+- trade increased  
 
-## Case Study Standard
+This divergence between expected and observed behaviour is a key signal in AML/CFT analysis.
 
-Each case aims to show:
-- structured thinking
-- source-based analysis
-- practical risk judgment
-- clear written communication
-- escalation discipline
+Such environments are commonly associated with:
+- Trade-Based Money Laundering (TBML)  
+- sanctions evasion  
+- use of intermediaries or informal trade channels  
+- reduced counterparty transparency  
 
 ---
 
-## Notes
+## Source Note
 
-These case studies are for research and portfolio purposes. They are not legal advice and do not claim to establish criminal conduct where only risk indicators are present.
+The underlying data in this case originates from a newspaper article written by the analyst in 2014.
 
-## References
-
-- Open-source reporting (2014)
-- Counterterrorism literature on shadow economies and terrorist financing
-
----
-
-## Key Skills Demonstrated
-
-- Trade-Based Money Laundering (TBML) analysis
-- Sanctions risk identification
-- Conflict-zone risk assessment
-- Network analysis
-- Risk scoring and escalation logic
+The same individual now re-examines the reporting from an AML/CFT perspective, identifying risk indicators and potential financial crime exposure that were not explicitly framed at the time.
