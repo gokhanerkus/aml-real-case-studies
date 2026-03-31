@@ -51,8 +51,6 @@ Such patterns are commonly associated with:
 
 ## Source Note
 
-## Source Note
-
 This case is based on contemporaneous newspaper reporting authored by the analyst.
 
 The original article documented trade patterns observed during the Syrian conflict, 
