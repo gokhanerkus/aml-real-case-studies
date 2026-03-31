@@ -33,7 +33,7 @@ The structural patterns identified in this case are consistent with typologies c
 
 ## Source Note
 
-This case is based on contemporaneous reporting authored by the analyst in 2013.
+This case is based on contemporaneous reporting authored by the analyst.
 
 <img src="assets/iran-triangle-case.jpg" width="250"/>
 *Original reporting by the analyst (2013)*
