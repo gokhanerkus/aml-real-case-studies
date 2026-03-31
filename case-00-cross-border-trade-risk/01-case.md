@@ -1,6 +1,6 @@
 # Case 00 — Cross-Border Trade Risk (Turkey–Syria, 2013–2014)
 
-<img src="assets/isis-trade-case.jpeg" width="500"/>
+<img src="assets/isis-trade-case.jpeg" width="250"/>
 
 ## Case Summary
 
