@@ -72,3 +72,13 @@ These case studies are for research and portfolio purposes. They are not legal a
 
 - Open-source reporting (2014)
 - Counterterrorism literature on shadow economies and terrorist financing
+
+---
+
+## Key Skills Demonstrated
+
+- Trade-Based Money Laundering (TBML) analysis
+- Sanctions risk identification
+- Conflict-zone risk assessment
+- Network analysis
+- Risk scoring and escalation logic
