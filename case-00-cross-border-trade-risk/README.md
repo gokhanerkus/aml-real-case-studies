@@ -1,5 +1,9 @@
 # AML Real Case Studies
 
+This repository demonstrates practical AML/CFT investigation thinking based on real-world events, combining open-source intelligence (OSINT) with structured financial crime analysis.
+
+The cases are authored and analysed by the same individual, reflecting both original reporting and retrospective risk assessment.
+
 This repository contains open-source, analyst-style case studies focused on AML/CFT, sanctions risk, trade-based money laundering, and financial crime typologies.
 
 Each case is structured to resemble a practical investigation file rather than a generic academic note. The goal is to show how a financial crime analyst breaks down real-world events into:
