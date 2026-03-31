@@ -105,19 +105,26 @@ A prudent analyst would not rely on headline trade volume alone. The correct nex
 
 ---
 
-## Supporting Insight from Counterterrorism Literature
+## Source Attribution & Publication Record
 
-Research on terrorist financing shows that armed groups often rely on existing shadow economies rather than operating in isolation.
+This analysis is derived from contemporaneous investigative work conducted in 2013–2014.
 
-In such environments:
-- intermediaries play a critical role in connecting buyers and sellers  
-- commodity trade can be used as a vehicle for value transfer  
-- legal and illegal economic activity may overlap  
+Key elements of the findings — including the reported ~79% increase in exports — were:
 
-This framework is consistent with the observed pattern in this case, where trade activity increased despite reduced state control and elevated conflict exposure.
+- cited in academic counterterrorism literature  
+- referenced in international media coverage, including BBC World Service (2014)
 
+### Academic Reference
+
+- Essentials of Counterterrorism, edited by James J. F. Forest  
+- Publication year: 2015  
+- Context: discussion of shadow economies, conflict-zone trade, and terrorist financing structures
 <img src="assets/counterterrorism-book.jpg" width="140"/>
-*James J. F. Forest (ed.), Essentials of Counterterrorism — illustrating how shadow economies and commodity trade can support terrorist financing in conflict environments.*
 
----
-The data in this case was later cited in BBC Worldwide Service coverage (2014), which relied on contemporaneous reporting by the analyst as the source of the ~79% increase in exports.
+
+An excerpt from the academic publication is provided in the assets folder as supporting evidence.
+
+### Media Reference
+
+- BBC World Service (2014)  
+  Referenced reporting based on the same analytical findings, including the ~79% export increase.
